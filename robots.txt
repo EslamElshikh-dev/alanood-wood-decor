@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://USERNAME.github.io/alanood-wood-decor/sitemap.xml
